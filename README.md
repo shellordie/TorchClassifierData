@@ -5,13 +5,13 @@ A Small pytorch utility to Import,Split,Normalize and Visualize custom dataset f
 ## Install
 
 ```bash
-git+https://github.com/shellordie/TorchClassifierData.git@main
+pip install git+https://github.com/shellordie/TorchClassifierData.git@main
 
 ```
 
 ## Example
 
-Check [link](https://github.com/shellordie/TorchClassifierDataExample/) 
+Check [https://github.com/shellordie/TorchClassifierDataExample/](https://github.com/shellordie/TorchClassifierDataExample/) 
 
 
 
