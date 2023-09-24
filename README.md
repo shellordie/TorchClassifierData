@@ -9,7 +9,7 @@ pip install git+https://github.com/shellordie/TorchClassifierData.git@main
 
 ```
 
-## Example
+## Usage 
 
 Check [https://github.com/shellordie/TorchClassifierDataExample/](https://github.com/shellordie/TorchClassifierDataExample/) 
 

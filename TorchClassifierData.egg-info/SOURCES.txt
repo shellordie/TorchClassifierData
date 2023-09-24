@@ -1,0 +1,9 @@
+README.md
+setup.py
+TorchClassifierData/__init__.py
+TorchClassifierData/main.py
+TorchClassifierData.egg-info/PKG-INFO
+TorchClassifierData.egg-info/SOURCES.txt
+TorchClassifierData.egg-info/dependency_links.txt
+TorchClassifierData.egg-info/requires.txt
+TorchClassifierData.egg-info/top_level.txt
