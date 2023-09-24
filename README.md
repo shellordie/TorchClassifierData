@@ -4,9 +4,17 @@ A Small pytorch utility to Import,Split,Normalize and Visualize custom dataset f
 
 ## Install
 
+### From main branch
+
 ```bash
 pip install git+https://github.com/shellordie/TorchClassifierData.git@main
 
+```
+
+### From pypi
+
+```bash
+pip install TorchClassifierData
 ```
 
 ## Usage 
