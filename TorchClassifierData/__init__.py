@@ -1,1 +1,1 @@
-import TorchClassifierData.ClassifierData
+from TorchClassifierData.main import *
